@@ -69,7 +69,7 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/FarazFazelifar/AI-resume-assitant.git
+   git clone https://github.com/FarazFazelifar/AI-resume-assistant.git
    cd ai-resume-assistant
    ```
 
